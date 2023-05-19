@@ -1,3 +1,5 @@
+"use strict";
+
 //dichiaro le variabili
 let messaggio;
 
