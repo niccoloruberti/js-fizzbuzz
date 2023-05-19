@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.bg_sfondo {
+    background-color: rgb(8, 59, 76);
+}
+
+.contenitore {
+    margin: auto;
+}
+
+.w_700 {
+    width: 700px;
+}
+
+.h_700 {
+    height: 700px;
+}
+
+span {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    height: 50px;
+    width: 50px;
+    margin: 10px;
+}
+
+.bg_numero {
+    background-color: rgb(19, 137, 178);
+}
+
+.bg_fizz {
+    background-color: rgb(12, 214, 161);
+}
+
+.bg_buzz {
+    background-color: rgb(255, 209, 102);
+}
+
+.bg_fizzbuzz {
+    background-color: rgb(240, 70, 111);
+}
